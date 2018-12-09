@@ -1,6 +1,6 @@
 # Project2MemoryGame_GwG-Udacity
 This is my Project2-Memory Game for the: "Grow with Google-Udacity Front End Developer NanoDegree Scholarship"
-Click this link to open and play this game in the browser:  https://drjwebsitedesign.github.io/Project2_Memory-Game_Google-Udacity-NanoDegree/
+Click this link to open and play this game in the browser:   https://drjwebsitedesign.github.io/GwG-Udacity-NanoDegree_Project2_Memory-Game/
 
 I FOLLOWED MY STRONG DESIRE HERE TO EXPRESS MY CREATIVE THOUGHTS TO BUILD A SLIGHTLY DIFFERENT MEMORY GAME. THIS CONCEPT IS BASED ON BRIGHT, YELLOW, SUNSHINE CIRCLES THAT PUSH THE USER'S MOOD TO HAPPY FEELINGS OF BRIGHT, WARM, FUN THOUGHTS AND EMOTIONS. I BELIEVE THAT THE USER'S EMOTIONS WILL THEN CREATE A DESIRE TO KEEP PLAYING THE "HAPPY YELLOW SUNSHINE CIRCLES GAME" OVER AND OVER AND OVER AGAIN LOL. I INTEND TO COMEBACK LATER TO ADD "WARM, HAPPY, SUNSHINE-RELATED" ICONS TO INCREASE THE USER'S HAPPY, EMOTIONAL FEELINGS!
 
